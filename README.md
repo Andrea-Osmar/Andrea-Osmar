@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**Andrea-Osmar/Andrea-Osmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer with background in hospitality mainly sales and events. 
+I have a passion for creating useful and beautiful applications with a lot of attention to the details. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently attending a frontend developer boot camp with graduation in February 2021
+- 🖱️ I’m currently learning React, Redux, Javascript, React-Native
+- 👩‍💻 I love being creative and solving problems and I guess that's why I love programming so much!
+
+- 🧘🏻‍♀️ Fun fact, I am a huge yoga nerd
+- ✈️ And i love to travel
+
+- 📫 How to reach me: 
+  Check out my [Portfolio](https://andreaosmar.netlify.app/)
+  Or my [Linkedin](https://www.linkedin.com/in/andrea-osmar/)
+
+
