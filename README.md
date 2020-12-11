@@ -11,5 +11,3 @@ I have a passion for creating useful and beautiful applications with a lot of at
 - 📫 How to reach me: 
   Check out my [Portfolio](https://andreaosmar.netlify.app/)
   Or my [Linkedin](https://www.linkedin.com/in/andrea-osmar/)
-
-
