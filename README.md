@@ -11,5 +11,5 @@ I have a passion for creating useful and beautiful applications with a lot of at
 - 🧘🏻‍♀️ Fun fact, I am a huge yoga nerd  ✈️ And I love to travel
 
 - 📫 How to reach me: 
-  Check out my [Portfolio](https://andreaosmar.netlify.app/)
-  Or my [Linkedin](https://www.linkedin.com/in/andrea-osmar/)
+  Check out my [__Portfolio__](https://andreaosmar.netlify.app/)
+  Or my [__Linkedin__](https://www.linkedin.com/in/andrea-osmar/)
