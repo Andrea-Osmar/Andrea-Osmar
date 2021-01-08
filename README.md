@@ -1,4 +1,4 @@
-![Image of code](https://unsplash.com/photos/LqKhnDzSF-8)
+![Image of code](https://cdn.pixabay.com/photo/2018/09/05/12/01/nature-3656121_960_720.jpg)
 
 ### Hi, I'm Andrea
 
