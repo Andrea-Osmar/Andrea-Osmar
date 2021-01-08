@@ -1,4 +1,6 @@
-### Hi!
+![Image of code](https://unsplash.com/photos/LqKhnDzSF-8)
+
+### Hi, I'm Andrea
 
 I am a frontend developer with background in hospitality mainly sales and events. 
 I have a passion for creating useful and beautiful applications with a lot of attention to the details. 
