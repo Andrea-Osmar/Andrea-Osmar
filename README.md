@@ -1,4 +1,4 @@
-![Image of sky](https://cdn.pixabay.com/photo/2018/06/07/09/01/emotions-3459666_960_720.jpg)
+![Image of sky](https://cdn.pixabay.com/photo/2019/03/18/04/35/africa-4062355_960_720.png)
 
 ### Hi, I'm Andrea
 
