@@ -8,7 +8,7 @@ I have a passion for creating useful and beautiful applications with a lot of at
 - 💻 I have recently graduated from a frontend developer boot camp 
 - 🖱️ I have studied React, Redux, Javascript, React-Native, Node.js 
 - 👩‍💻 I love being creative and solving problems and I guess that's why I love programming so much!
-- 🧘🏻‍♀️ Fun fact, I am a huge yoga nerd  ✈️ And I love to travel
+- 🧘🏻‍♀️ Fun fact, I am a yoga nerd  ✈️ And I love to travel
 
 - 📫 How to reach me: 
   Check out my [__Portfolio__](https://www.andreaosmar.com/)
