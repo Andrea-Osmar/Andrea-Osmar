@@ -13,4 +13,4 @@ I have a passion for creating useful and beautiful applications with a lot of at
   Check out my [__Portfolio__](https://www.andreaosmar.com/)
   Or my [__Linkedin__](https://www.linkedin.com/in/andrea-osmar/)
   
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Osmar&layout=compact)](https://github.com/Andrea-Osmar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Osmar&layout=compact)](https://github.com/Andrea-Osmar/github-readme-stats)
