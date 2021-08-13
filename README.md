@@ -1,4 +1,4 @@
-/*![Image of sky](https://media-exp1.licdn.com/dms/image/C4E16AQGAAqA2QLjCzA/profile-displaybackgroundimage-shrink_350_1400/0/1619448313032?e=1625702400&v=beta&t=EHlh7A5aEMEiKeaiStg9C-64_uLPjHVTxN_3mox1_tg)*/
+//![Image of sky](https://media-exp1.licdn.com/dms/image/C4E16AQGAAqA2QLjCzA/profile-displaybackgroundimage-shrink_350_1400/0/1619448313032?e=1625702400&v=beta&t=EHlh7A5aEMEiKeaiStg9C-64_uLPjHVTxN_3mox1_tg)
 ### Hi, I'm Andrea
 
 I am a frontend developer with background in hospitality, mainly sales and events. 
