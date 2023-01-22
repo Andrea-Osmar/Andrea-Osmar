@@ -1,13 +1,13 @@
 
 ### Hi there, I'm Andrea
 
-a colorful, creative frontend developer and UX/UI designer
+a colorful, creative UX/UI designer and frontend developer
 I have a passion for creating useful and beautiful applications with a lot of attention to the details. 
 
 - 🖼️ I graduated from Experience Haus UX/UI Design course May 2022 
 - 💻 I graduated from Technigo frontend developer boot camp in February 2021 
 - 🖱️ I work with Figma, React, Next, Flutter, Dart, JavaScript & Node.
-- ✨ I currently work as a designer and frontend consultant at Sogeti in Stockholm, Sweden
+- ✨ I currently work as a designer at the Swedish bank SEB.
 - 👩‍💻 I love being creative and solving problems 
 - 🧘🏻‍♀️ Fun fact, I am a yoga nerd  ✈️ And I love to travel 
 
